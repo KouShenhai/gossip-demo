@@ -1,4 +1,4 @@
-# test1种子节点，test2集群
+# test1种子节点，test2集群节点
 
 ```shell
 go mod tidy
