@@ -1,4 +1,8 @@
 ```shell
+go mod tidy
+```
+
+```shell
 sudo apt update
 sudo apt install -y openssl
 ```
